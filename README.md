@@ -25,7 +25,6 @@
 I'm a passionate **Computer Science student** and **Software Engineer** with a deep love for creating elegant solutions. My journey began with curiosity and has evolved into a dedication to building meaningful software.
 
 - 🔭 I’m currently working on **AI-driven tools and Financial Tech**.
-- 🌱 I’m currently learning **Advanced OpenGL & Machine Learning**.
 - 🚀 **Featured Project:** [Invoice MCP Reader Tool](https://eddieeq7.github.io/invoice-tool.html) - AI-powered invoice parsing.
 - 👾 **Fun Fact:** I built a [Neon Chase](https://eddieeq7.github.io/gametry/Gametry2/index.html) game in vanilla JS!
 
